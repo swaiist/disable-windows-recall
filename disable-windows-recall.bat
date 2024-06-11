@@ -10,5 +10,5 @@ shutdown /r /t 0
 
 
 
-⚠️#Attention: Your PC will restart afterwards
-⚠️#Attention: Do it only at your own risk
+# ⚠️Attention: Your PC will restart afterwards
+# ⚠️Attention: Do it only at your own risk
